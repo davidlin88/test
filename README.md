@@ -48,5 +48,7 @@
 
 
 [^1]: 原生脚注
+
 <sup>[1](#a)</sup>
+
 <b id="f1">1</b> Footnote content here. [↩](#a1)
